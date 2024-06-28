@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-**EduZu32/EduZu32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola a todos 👋
 
 Soy EduZu32, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
 
@@ -21,3 +18,25 @@ Soy EduZu32, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW
 - Bases de datos: MySQL
 
 Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado por conectar y colaborar contigo!
+
+
+## Hello everyone 👋
+
+I'm EduZu32, a second-year Web Application Development (DAW) student. I'm passionate about programming and I'm constantly learning to improve my skills and knowledge.
+
+### 🚀 About Me
+- 🎓 I completed the first year of the Web Application Development (DAW) program at the European University.
+- 💼 I have one year of experience working on development projects using languages such as HTML, JavaScript, CSS, Java, and MySQL.
+- 🌱 I am currently learning ServiceNow and improving my knowledge of Agile methodologies.
+- 👯 I am looking to collaborate on open-source projects and in teams where I can contribute and continue learning.
+- 💬 Ask me about HTML, CSS, JavaScript, Java, MySQL.
+- 📫 How to reach me: apa.eduard@gmail.com
+
+### 🛠️ Technologies and Tools
+- Programming languages: Java, HTML, CSS, JavaScript
+- Frameworks and libraries: React, Node.js, Express
+- Platforms: ServiceNow
+- Development tools: Visual Studio Code, IntelliJ IDEA, Git, GitHub
+- Databases: MySQL
+
+Thank you for visiting my GitHub profile. I am excited to connect and collaborate with you!
