@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **EduZu32/EduZu32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Soy EduZu32, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
