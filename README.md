@@ -1,6 +1,6 @@
 ## Hola a todos 👋
 
-Soy EduZu32, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
+Soy Eduard, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
 
 ### 🚀 Sobre mí
 - 🎓 Terminé el 1º año del grado superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.
@@ -21,7 +21,7 @@ Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado por conectar y colab
 
 ## Hello everyone 👋
 
-I'm EduZu32, a second-year Web Application Development (DAW) student. I'm passionate about programming and I'm constantly learning to improve my skills and knowledge.
+I'm Eduard, a second-year Web Application Development (DAW) student. I'm passionate about programming and I'm constantly learning to improve my skills and knowledge.
 
 ### 🚀 About Me
 - 🎓 I completed the first year of the Web Application Development (DAW) program at the European University.
