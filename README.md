@@ -12,10 +12,9 @@ Soy EduZu32, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW
 
 ### 🛠️ Tecnologías y Herramientas
 - Lenguajes de programación: Java, HTML, CSS, JavaScript.
-- Frameworks y librerías: React, Node.js, Express
-- Plataformas: ServiceNow
+- Plataformas: ServiceNow.
 - Herramientas de desarrollo: Visual Studio Code, IntelliJ IDEA, Git, GitHub.
-- Bases de datos: MySQL
+- Bases de datos: MySQL.
 
 Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado por conectar y colaborar contigo!
 
@@ -33,8 +32,7 @@ I'm EduZu32, a second-year Web Application Development (DAW) student. I'm passio
 - 📫 How to reach me: apa.eduard@gmail.com
 
 ### 🛠️ Technologies and Tools
-- Programming languages: Java, HTML, CSS, JavaScript
-- Frameworks and libraries: React, Node.js, Express
+- Programming languages: Java, HTML, CSS, JavaScript.
 - Platforms: ServiceNow
 - Development tools: Visual Studio Code, IntelliJ IDEA, Git, GitHub
 - Databases: MySQL
