@@ -1,6 +1,6 @@
 ## Hola a todos 👋
 
-Soy Eduard, un desarrollador en 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
+Soy Eduard, y estoy cursando el 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
 
 ### 🚀 Sobre mí
 - 🎓 Terminé el 1º año del grado superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.
