@@ -9,7 +9,9 @@ Soy Eduard, estudiante de 2º año de Desarrollo de Aplicaciones Web (DAW) y apa
 🛠 Me interesa colaborar en proyectos de código abierto y en equipos donde pueda aportar y continuar aprendiendo.
 💬 Pregúntame sobre HTML, CSS, JavaScript, Java, PHP, Node.js, React, Vue.js, Bootstrap, MySQL, ServiceNow.
 📫 Cómo contactarme: apa.eduard@gmail.com
+
 🛠️ Tecnologías y Herramientas
+
 Lenguajes de programación: Java, PHP, HTML, CSS, JavaScript.
 Frameworks y Librerías: Node.js, React, Vue.js, Bootstrap.
 Plataformas: ServiceNow, WordPress.
@@ -29,7 +31,9 @@ I'm Eduard, a second-year Web Application Development (DAW) student, passionate 
 🛠 I'm interested in collaborating on open-source projects and with teams where I can contribute and continue learning.
 💬 Ask me about HTML, CSS, JavaScript, Java, PHP, Node.js, React, Vue.js, Bootstrap, MySQL, ServiceNow.
 📫 How to reach me: apa.eduard@gmail.com
+
 🛠️ Technologies and Tools
+
 Programming languages: Java, PHP, HTML, CSS, JavaScript.
 Frameworks and Libraries: Node.js, React, Vue.js, Bootstrap.
 Platforms: ServiceNow, WordPress.
