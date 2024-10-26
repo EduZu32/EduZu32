@@ -20,6 +20,8 @@ Bases de datos: MySQL.
 Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado por conectar y colaborar contigo!
 
 
+
+
 Hello everyone 👋
 
 I'm Eduard, a second-year Web Application Development (DAW) student, passionate about technology and development. I'm constantly learning to improve my skills and knowledge.
