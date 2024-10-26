@@ -1,20 +1,21 @@
-Hola a todos 👋
+###Hola a todos 👋
 Soy Eduard, y estoy cursando el 2º año de Desarrollo de Aplicaciones Web (DAW). Me apasiona la programación y estoy en constante aprendizaje para mejorar mis habilidades y conocimientos.
 
-🚀 Sobre mí
-🎓 Actualmente cursando el segundo año del grado superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.
-💼 Experiencia en proyectos de desarrollo utilizando lenguajes como: HTML, JavaScript, CSS, Java, PHP, Node.js, React, Vue.js, Bootstrap y MySQL.
-🌱 Actualmente estoy aprendiendo ServiceNow, mejorando mis conocimientos en metodologías ágiles y explorando el desarrollo en WordPress.
-👯 Estoy buscando colaborar en proyectos de código abierto y en equipos donde pueda aportar y seguir aprendiendo.
-💬 Pregúntame sobre HTML, CSS, JavaScript, Java, PHP, Node.js, React, Vue.js, Bootstrap, MySQL, ServiceNow.
-📫 Cómo contactarme: apa.eduard@gmail.com
-🛠️ Tecnologías y Herramientas
-Lenguajes de programación: Java, PHP, HTML, CSS, JavaScript.
-Frameworks y Librerías: Node.js, React, Vue.js, Bootstrap.
-Plataformas: ServiceNow, WordPress.
-Herramientas de desarrollo: Visual Studio Code, IntelliJ IDEA, Git, GitHub.
-Bases de datos: MySQL.
-Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado por conectar y colaborar contigo!
+###🚀 Sobre mí
+-🎓 Actualmente cursando el segundo año del grado superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.
+-💼 Experiencia en proyectos de desarrollo utilizando lenguajes como: HTML, JavaScript, CSS, Java, PHP, Node.js, React, Vue.js, Bootstrap y MySQL.
+-🌱 Actualmente estoy aprendiendo ServiceNow, mejorando mis conocimientos en metodologías ágiles y explorando el desarrollo en WordPress.
+-👯 Estoy buscando colaborar en proyectos de código abierto y en equipos donde pueda aportar y seguir aprendiendo.
+-💬 Pregúntame sobre HTML, CSS, JavaScript, Java, PHP, Node.js, React, Vue.js, Bootstrap, MySQL, ServiceNow.
+-📫 Cómo contactarme: apa.eduard@gmail.com
+
+###🛠️ Tecnologías y Herramientas
+-Lenguajes de programación: Java, PHP, HTML, CSS, JavaScript.
+-Frameworks y Librerías: Node.js, React, Vue.js, Bootstrap.
+-Plataformas: ServiceNow, WordPress.
+-Herramientas de desarrollo: Visual Studio Code, IntelliJ IDEA, Git, GitHub.
+-Bases de datos: MySQL.
+-Gracias por visitar mi perfil de GitHub. ¡Estoy emocionado por conectar y colaborar contigo!
 
 Hello everyone 👋
 I'm Eduard, a second-year Web Application Development (DAW) student. I'm passionate about programming and I'm constantly learning to improve my skills and knowledge.
