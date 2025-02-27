@@ -1,23 +1,22 @@
-👋 ¡Hola! Soy Eduard 🚀
-Soy un desarrollador en formación, apasionado por la tecnología y el desarrollo de aplicaciones web. Me encanta aprender y aplicar nuevas tecnologías en proyectos desafiantes.
+👋 ¡Hola! Soy Eduard 🚀  
+Soy un desarrollador en formación, apasionado por la tecnología y el desarrollo de aplicaciones web. Me encanta aprender y aplicar nuevas tecnologías en proyectos desafiantes.  
 
-🎓 Sobre mí
-📚 Estudiante del 2º año del Grado Superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.
-💡 Experiencia en desarrollo full stack con tecnologías modernas.
-🔍 Explorando ServiceNow y WordPress, y mejorando mis habilidades en metodologías ágiles.
-🤝 Buscando colaborar en proyectos de código abierto y en equipos dinámicos.
-🛠️ Tecnologías y herramientas
+### 🎓 Sobre mí  
+📚 Estudiante del 2º año del Grado Superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.  
+💡 Experiencia en desarrollo full stack con tecnologías modernas.  
+🔍 Explorando ServiceNow y WordPress, y mejorando mis habilidades en metodologías ágiles.  
+🤝 Buscando colaborar en proyectos de código abierto y en equipos dinámicos.  
 
-🔹 Frontend: HTML, CSS, JavaScript, Bootstrap, Angular, React, Vue.js.
+### 🛠️ Tecnologías y herramientas  
+🔹 **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Angular, Bootstrap  
+🔹 **Backend**: Node.js, PHP, Java  
+🔹 **Bases de datos**: MySQL  
+🔹 **Herramientas**: Git, GitHub, VS Code, IntelliJ IDEA  
 
-🔹 Backend: Node.js, PHP, Java.
+### 🏆 Proyectos Destacados  
+🎣 **EntreCañas** - Plataforma sobre pesca con licencias y material.  
+🏨 **Gestión Hotelera** - Aplicación web para administración de hoteles (React + Node.js + MySQL).  
 
-🔹 Bases de datos: MySQL.
-
-🔹 Herramientas: Git, GitHub, VS Code, IntelliJ IDEA.
-
-📫 Cómo contactarme
-Si quieres colaborar o tienes una idea interesante, ¡hablemos!
-Puedes contactarme en GitHub o en mis redes profesionales.
-
----
+### 📫 Cómo contactarme  
+Si quieres colaborar o tienes una idea interesante, **¡hablemos!**  
+Puedes contactarme en GitHub o en mis redes profesionales.  
