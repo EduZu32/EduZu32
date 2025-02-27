@@ -14,7 +14,7 @@ Soy un desarrollador en formación, apasionado por la tecnología y el desarroll
 
 🔹 Bases de datos: MySQL.
 
-🔹 Herramientas:Git, GitHub, VS Code, IntelliJ IDEA.
+🔹 Herramientas: Git, GitHub, VS Code, IntelliJ IDEA.
 
 📫 Cómo contactarme
 Si quieres colaborar o tienes una idea interesante, ¡hablemos!
