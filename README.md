@@ -40,11 +40,11 @@ let myTechnologies = [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://lh3.googleusercontent.com/proxy/aoXj_1ToxKK-OQAhVhedvmS6pyMXCUOyd2UT38E6M5VV_NSmQfMyew6pvX-XEWoWu1eBTyYaOuc8vKTBVyK1ehPxW7wNrTMCw9Afi1XuogZMSutyNX4kDO98kjfL4-KkmUktKRF48HW-QczLD5d89ARI" width="40" padding: 2px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="background-color: white; padding: 4px; border-radius: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original-wordmark.svg" padding 2px; width="70" style="background-color: white; border-radius: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original-wordmark.svg" width="60" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
@@ -84,3 +84,5 @@ const contact = {
 <p align="center">
   <em>Made with <span style="color: #e25555;">♥</span> by EduZu</em>
 </p>
+
+
