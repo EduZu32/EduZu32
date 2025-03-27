@@ -74,7 +74,6 @@ const projects = [
 ### ✉️ Contact
 ```js
 const contact = {
-  github: "https://github.com/EduZu32",
   message: "Open an issue or pull request if you want to collaborate!"
 };
 ```
