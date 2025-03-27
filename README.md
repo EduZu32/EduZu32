@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/Cursor.gif" alt="Cursor GIF" width="400"/>
 </p>
