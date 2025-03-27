@@ -23,7 +23,7 @@ if (wantToRead) {
 
 ---
 
-### 🧠 Technologies I'm working on & learning
+### 🧐 Technologies I'm working on & learning
 
 ```js
 let myTechnologies = [
@@ -40,7 +40,7 @@ let myTechnologies = [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" style="background-color: white; padding: 8px; border-radius: 8px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="60" style="background-color: white; padding: 6px; border-radius: 6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
@@ -84,6 +84,8 @@ const contact = {
 <p align="center">
   <em>Made with <span style="color: #e25555;">♥</span> by EduZu</em>
 </p>
+
+
 
 
 
