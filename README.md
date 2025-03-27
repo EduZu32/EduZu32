@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/const_dev_cursor.gif" alt="Dev GIF" width="400"/>
+  <img src="const_dev_cursor.gif" alt="Dev GIF" width="400"/>
 </p>
 
 
