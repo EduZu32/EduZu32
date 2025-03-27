@@ -60,8 +60,7 @@ let myTechnologies = [
 const projects = [
   {
     name: "EntreCañas",
-    description: "An online fishing store focused on product sales. Built using HTML, JavaScript, and Bootstrap for the frontend,
-    and Node.js for backend operations, including data retrieval from a MySQL database."
+    description: "An online fishing store focused on product sales. Built using HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend operations, including data retrieval from a MySQL database."
   },
   {
     name: "Gestión Hotelera",
