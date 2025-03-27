@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EduZu32/EduZu32/main/Cursor.gif" alt="Cursor GIF" width="400"/>
+  <img src="assets/const_dev_cursor.gif" alt="Dev GIF" width="400"/>
 </p>
 
 
