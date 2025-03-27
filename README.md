@@ -2,28 +2,67 @@
   <img src="const_dev_final.gif" alt="Dev GIF" width="400"/>
 </p>
 
+```js
+if (wantToRead) {
+  const dev = {
+    name: "Eduard-Ciprian Apatachioae",
+    alias: "EduZu",
+    role: "FullStack Web Developer in training",
+    stack: ["HTML", "CSS", "JavaScript", "Vue.js", "React", "Angular", "Node.js", "PHP", "Java"],
+    tools: ["Bootstrap", "MySQL", "Git", "GitHub", "VS Code", "IntelliJ"],
+    currentlyLearning: ["ServiceNow", "WordPress"],
+    goals: "Finish DAW, grow as developer and join a strong dev team 🚀"
+  };
+  console.log(dev);
+}
+```
 
+---
 
+### 🧠 Technologies I'm working on & learning
 
-👋 ¡Hola! Soy Eduard 🚀  
-Soy un desarrollador en formación, apasionado por la tecnología y el desarrollo de aplicaciones web. Me encanta aprender y aplicar nuevas tecnologías en proyectos desafiantes.  
+```js
+let myTechnologies = [
+  "JavaScript", "Angular", "React", "Vue.js", "TypeScript", "Node.js",
+  "Express", "PHP", "Java", "JUnit", "Tomcat", "MySQL",
+  "Docker", "Bootstrap", "HTML5", "CSS3", "GitHub"
+];
+```
 
-### 🎓 Sobre mí  
-📚 Estudiante del 2º año del Grado Superior de Desarrollo de Aplicaciones Web (DAW) en la Universidad Europea.  
-💡 Experiencia en desarrollo full stack con tecnologías modernas.  
-🔍 Explorando ServiceNow y WordPress, y mejorando mis habilidades en metodologías ágiles.  
-🤝 Buscando colaborar en proyectos de código abierto y en equipos dinámicos.  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
-### 🛠️ Tecnologías y herramientas  
-🔹 **Frontend**: HTML, CSS, JavaScript, React, Vue.js, Angular, Bootstrap  
-🔹 **Backend**: Node.js, PHP, Java  
-🔹 **Bases de datos**: MySQL  
-🔹 **Herramientas**: Git, GitHub, VS Code, IntelliJ IDEA  
+---
 
-### 🏆 Proyectos Destacados  
-🎣 **EntreCañas** - Plataforma sobre pesca con licencias y material.  
-🏨 **Gestión Hotelera** - Aplicación web para administración de hoteles (React + Node.js + MySQL).  
+### 📂 Projects
+- **EntreCañas** - Plataforma sobre pesca con licencias y material.
+- **Gestión Hotelera** - Web app para gestión de hoteles (React + Node.js + MySQL).
 
-### 📫 Cómo contactarme  
-Si quieres colaborar o tienes una idea interesante, **¡hablemos!**  
-Puedes contactarme en GitHub o en mis redes profesionales.  
+---
+
+### ✉️ Contact
+You can reach me through [GitHub](https://github.com/EduZu32) or feel free to open an issue or pull request if you want to collaborate.
+
+---
+
+<p align="center">
+  <em>Made with <span style="color: #e25555;">♥</span> by EduZu</em>
+</p>
+
