@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/Cursor.gif" alt="Cursor GIF" width="400"/>
+</p>
+
+
 👋 ¡Hola! Soy Eduard 🚀  
 Soy un desarrollador en formación, apasionado por la tecnología y el desarrollo de aplicaciones web. Me encanta aprender y aplicar nuevas tecnologías en proyectos desafiantes.  
 
