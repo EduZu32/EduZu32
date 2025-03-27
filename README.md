@@ -36,33 +36,49 @@ let myTechnologies = [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="filter: brightness(200%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" style="filter: brightness(200%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: brightness(200%);"/>
 </p>
 
 ---
 
 ### 📂 Projects
-- **EntreCañas** - Plataforma sobre pesca con licencias y material.
-- **Gestión Hotelera** - Web app para gestión de hoteles (React + Node.js + MySQL).
+```js
+const projects = [
+  {
+    name: "EntreCañas",
+    description: "Plataforma sobre pesca con licencias y material."
+  },
+  {
+    name: "Gestión Hotelera",
+    description: "Web app para gestión de hoteles (React + Node.js + MySQL)."
+  }
+];
+```
 
 ---
 
 ### ✉️ Contact
-You can reach me through [GitHub](https://github.com/EduZu32) or feel free to open an issue or pull request if you want to collaborate.
+```js
+const contact = {
+  github: "https://github.com/EduZu32",
+  message: "Open an issue or pull request if you want to collaborate!"
+};
+```
 
 ---
 
 <p align="center">
   <em>Made with <span style="color: #e25555;">♥</span> by EduZu</em>
 </p>
+
 
