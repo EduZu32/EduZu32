@@ -44,7 +44,8 @@ let myTechnologies = [
   <img src="https://cdn.simpleicons.org/php/777BB4" width="40"/>
   <img src="https://cdn.simpleicons.org/java/007396" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original.svg" width="40" style="background-color: white; padding: 4px; border-radius: 6px;"/>
+
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" style="background-color: white; padding: 4px; border-radius: 6px;"/>
