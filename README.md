@@ -1,5 +1,6 @@
 <p align="center">
- ![Cursor GIF](https://raw.githubusercontent.com/EduZu32/EduZu32/main/assets/Cursor.gif)
+ ![Cursor GIF]([https://raw.githubusercontent.com/EduZu32/EduZu32/main/assets/Cursor.gif](https://raw.githubusercontent.com/EduZu32/EduZu32/main/Cursor.gif
+))
 </p>
 
 
