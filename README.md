@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/Cursor.gif" alt="Cursor GIF" width="400"/>
+  <img src="https://github.com/EduZu32/EduZu32/blob/main/assets/Cursor.gif?raw=true" alt="Cursor GIF" width="400"/>
 </p>
+
 
 
 👋 ¡Hola! Soy Eduard 🚀  
