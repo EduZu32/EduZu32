@@ -11,11 +11,11 @@ if (wantToRead) {
   const dev = {
     name: "Eduard-Ciprian Apatachioae",
     alias: "EduZu",
-    role: "FullStack Web Developer in training",
+    role: Technical Consultant | Web Developer | ServiceNow Developer in training",
     stack: ["HTML", "CSS", "JavaScript", "Vue.js", "React", "Angular", "Node.js", "PHP", "Java"],
     tools: ["Bootstrap", "MySQL", "Git", "GitHub", "VS Code", "IntelliJ"],
-    currentlyLearning: ["ServiceNow", "WordPress"],
-    goals: "Finish DAW, grow as developer and join a strong dev team 🚀"
+    currentlyLearning: ["ServiceNow (CAD Certification in progress)", "WordPress", "Low Code platforms"],
+    goals: "Grow as a ServiceNow Developer & Technical Consultant, contribute to international projects, and keep learning 🚀"
   };
   console.log(dev);
 }
