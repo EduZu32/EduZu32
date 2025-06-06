@@ -59,13 +59,17 @@ let myTechnologies = [
 ```js
 const projects = [
   {
+    name: "Hotel Management Fullstack App",
+    description: "Fullstack web application (React + Bootstrap + Node.js + Express + MySQL). Features REST API, JWT authentication, role-based access control, hotel operations management. [View project](https://github.com/EduZu32/hotel-management-fullstack-app)"
+  },
+  {
+    name: "EdyCasa - Real Estate Management App",
+    description: "Fullstack web application (PHP + MySQL + HTML + CSS + JS). Features user roles (Admin, Seller, Buyer), property management (CRUD), authentication, and responsive UI. [View project](https://github.com/EduZu32/edycasa-real-estate-app)"
+  },
+  {
     name: "EntreCañas",
     description: "An online fishing store focused on product sales. Developed with HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend data handling with MySQL integration."
   },
-  {
-    name: "Gestión Hotelera",
-    description: "Web app for hotel management (React + Node.js + MySQL)."
-  }
 ];
 ```
 
