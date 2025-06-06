@@ -50,7 +50,7 @@ let myTechnologies = [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="assets/GitHu.png" width="40"/>
+  <img src="assets/GitHub.png" width="40"/>
   <img src="assets/servicenow.png" width="40"/>
 </p>
 
