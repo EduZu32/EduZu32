@@ -34,24 +34,26 @@ let myTechnologies = [
 ```
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/>
-  <img src="https://cdn.simpleicons.org/angular/DD0031" width="40"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
-  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="40"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" style="background-color: white; padding: 4px; border-radius: 6px;"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40"/>
-  <img src="https://cdn.simpleicons.org/java/007396" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="40"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" style="background-color: white; padding: 4px; border-radius: 6px;"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" style="background-color: black; border-radius: 6px; padding: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://seeklogo.com/images/S/servicenow-logo-A77E2FDCFD-seeklogo.com.png" width="40"/>
 </p>
+
 
 ---
 
