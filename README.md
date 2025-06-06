@@ -70,6 +70,11 @@ const projects = [
     name: "EntreCañas",
     description: "An online fishing store focused on product sales. Developed with HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend data handling with MySQL integration."
   },
+  {
+    name: "Pokémon SPA (React App)",
+    description: "Single Page Application (SPA) built with React + Vite + Context API. Features API integration with PokeAPI, dynamic UI, state management for favorites, and responsive design. [View project](https://github.com/tu_usuario/poke-spa)"
+  }
+
 ];
 ```
 
