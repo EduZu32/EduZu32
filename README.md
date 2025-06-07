@@ -71,11 +71,7 @@ const projects = [
   },
  {
     name: "Tech Event Management System",
-    description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS."
-  },
-  {
-    name: "EntreCanias",
-    description: "An online fishing store focused on product sales. Developed with HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend data handling with MySQL integration. [View project](https://github.com/EduZu32/EntreCanias)"
+    description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS. [View project](https://github.com/EduZu32/)"
   },
   {
     name: "Pokémon SPA (React App)",
