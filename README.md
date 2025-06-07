@@ -102,11 +102,11 @@ const projects = [
   },
   {
     name: "Car Race Simulation (Java Project)",
-    description: "Console-based Java application simulating a car race. Features object-oriented design with classes for Cars and Race management. Includes race logic, car properties, and simple simulation flow. Built using pure Java (OOP) principles. [View project](https://github.com/Eduzu32/car-race-java)"
+    description: "Console-based Java application simulating a car race. Features object-oriented design with classes for Cars and Race management. Includes race logic, car properties, and simple simulation flow. Built using pure Java (OOP) principles. [View project](https://github.com/EduZu32/car-race-java)"
   },
   {
     name: "Library Catalog Management (Java Project)",
-    description: "Console-based Java application to manage a library catalog. Implements object-oriented design with classes for catalog types, exception handling, and controller logic. Features book management (add, remove, list), catalog type differentiation, and custom exception handling. Built using pure Java (OOP). [View project](https://github.com/Eduzu32/java-library-catalog)"
+    description: "Console-based Java application to manage a library catalog. Implements object-oriented design with classes for catalog types, exception handling, and controller logic. Features book management (add, remove, list), catalog type differentiation, and custom exception handling. Built using pure Java (OOP). [View project](https://github.com/EduZu32/java-library-catalog)"
   },
   {
     name: "Tech Event Management System",
