@@ -6,6 +6,8 @@
 
 ### 👨‍💻 About Me
 
+👋 I’m Eduard-Ciprian Apatachioae | Junior Web Developer & ServiceNow Developer in training | Fullstack & Backend Developer.
+
 ```js
 if (wantToRead) {
   const dev = {
