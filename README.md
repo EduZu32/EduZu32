@@ -1,8 +1,9 @@
 <p align="center">
   🚀 <b>Welcome to my GitHub!</b><br>
   I’m a Junior Web Developer & ServiceNow Developer in training,<br>
-  passionate about building modern web applications and learning new technologies.
+  passionate about building modern web applications and continuously learning new technologies.
 </p>
+
 
 ---
 
