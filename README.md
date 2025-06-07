@@ -73,16 +73,17 @@ const projects = [
     name: "Pokémon SPA (React App)",
     description: "Single Page Application (SPA) built with React + Vite + Context API. Features API integration with PokeAPI, dynamic UI, state management for favorites, and responsive design. [View project](https://github.com/EduZu32/poke-spa)"
   },
- {
+  {
     name: "Tech Event Management System",
     description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS. [View project](https://github.com/EduZu32/tech-event)"
   },
   {
     name: "TiendaPesca - E-Commerce Web App",
     description: "Fullstack E-Commerce web application with responsive product catalog, shopping cart functionality, and REST API (Node.js + Express + MySQL). Features JWT-based authentication, Swagger API docs, and modern UI with Vanilla JS. [View project](https://github.com/EduZu32/TiendaPesca)"
-}
-
+  }
 ];
+
+
 ```
 
 ---
