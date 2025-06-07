@@ -63,11 +63,24 @@ console.log(certifications);
 
 ```js
 let myTechnologies = [
-  "JavaScript", "Angular", "React", "Vue.js", "TypeScript", "Node.js",
-  "Express", "PHP", "Java", "ServiceNow", "JUnit", "Tomcat", "MySQL",
-  "Docker", "Bootstrap", "HTML5", "CSS3", "GitHub"
+  // Programming Languages & Frameworks
+  "JavaScript", "TypeScript", "Java", "PHP", "Node.js", "Express", 
+  
+  // Frontend Frameworks
+  "Angular", "React", "Vue.js",
+  
+  // ServiceNow Platform
+  "ServiceNow",
+  
+  // Testing & Backend Tools
+  "JUnit", "Tomcat", "MySQL",
+  
+  // DevOps & Utilities
+  "Docker", "GitHub", "Bootstrap", "HTML5", "CSS3"
 ];
+
 console.log(myTechnologies);
+
 ```
 
 <p align="center">
