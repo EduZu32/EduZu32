@@ -69,13 +69,17 @@ const projects = [
     name: "EdyCasa - Real Estate Management App",
     description: "Fullstack web application (PHP + MySQL + HTML + CSS + JS). Features user roles (Admin, Seller, Buyer), property management (CRUD), authentication, and responsive UI. [View project](https://github.com/EduZu32/edycasa-real-estate-app)"
   },
+ {
+    name: "Tech Event Management System",
+    description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS. [View project]        (https://github.com/EduZu32/tech-event)"
+  },
   {
     name: "EntreCañas",
     description: "An online fishing store focused on product sales. Developed with HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend data handling with MySQL integration."
   },
   {
     name: "Pokémon SPA (React App)",
-    description: "Single Page Application (SPA) built with React + Vite + Context API. Features API integration with PokeAPI, dynamic UI, state management for favorites, and responsive design. [View project](https://github.com/tu_usuario/poke-spa)"
+    description: "Single Page Application (SPA) built with React + Vite + Context API. Features API integration with PokeAPI, dynamic UI, state management for favorites, and responsive design. [View project](https://github.com/EduZu32/poke-spa)"
   }
 
 ];
