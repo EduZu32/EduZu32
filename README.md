@@ -75,7 +75,7 @@ const projects = [
   },
   {
     name: "EntreCañas",
-    description: "An online fishing store focused on product sales. Developed with HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend data handling with MySQL integration."
+    description: "An online fishing store focused on product sales. Developed with HTML, JavaScript, and Bootstrap for the frontend, and Node.js for backend data handling with MySQL integration. [View project](https://github.com/EduZu32/poke-spa)"
   },
   {
     name: "Pokémon SPA (React App)",
