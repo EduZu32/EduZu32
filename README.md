@@ -16,16 +16,24 @@ if (wantToRead) {
     role: "Technical Consultant | Web Developer | ServiceNow Developer in training",
     stack: ["HTML", "CSS", "JavaScript", "Vue.js", "React", "Angular", "Node.js", "PHP", "Java"],
     tools: ["Bootstrap", "MySQL", "Git", "GitHub", "VS Code", "IntelliJ"],
-    currentlyLearning: ["ServiceNow (CAD Certification in progress)", "WordPress", "Low Code platforms"],
+    currentlyLearning: [
+      "ServiceNow (CAD Certification in progress)",
+      "AI & Generative AI (ServiceNow Skills Earned)",
+      "Platform Analytics (ServiceNow Skills Earned)",
+      "WordPress",
+      "Low Code platforms"
+],
     goals: "Grow as a ServiceNow Developer & Technical Consultant, contribute to international projects, and keep learning 🚀"
-  };
-  console.log(dev);
+};
+    console.log(dev);
 }
 
 
 ```
 
 ### 📜 Certifications
+
+---
 
 ```js
 const certifications = [
@@ -47,7 +55,7 @@ console.log(certifications);
 
 ```js
 let myTechnologies = [
-  "JavaScript", "Angular", "React", "V2ue.js", "TypeScript", "Node.js",
+  "JavaScript", "Angular", "React", "Vue.js", "TypeScript", "Node.js",
   "Express", "PHP", "Java", "ServiceNow", "JUnit", "Tomcat", "MySQL",
   "Docker", "Bootstrap", "HTML5", "CSS3", "GitHub"
 ];
