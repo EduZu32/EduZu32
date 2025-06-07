@@ -91,8 +91,10 @@ const projects = [
 ```js
 const contact = {
   github: "https://github.com/EduZu32",
+  linkedin: "https://www.linkedin.com/in/tu_linkedin_aqui",
   message: "Open an issue or pull request if you want to collaborate!"
 };
+
 ```
 
 ---
