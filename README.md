@@ -25,7 +25,7 @@ if (wantToRead) {
 ],
     goals: "Grow as a ServiceNow Developer & Technical Consultant, contribute to international projects, and keep learning 🚀"
 };
-    console.log(dev);
+  console.log(dev);
 }
 
 
@@ -58,6 +58,7 @@ let myTechnologies = [
   "Express", "PHP", "Java", "ServiceNow", "JUnit", "Tomcat", "MySQL",
   "Docker", "Bootstrap", "HTML5", "CSS3", "GitHub"
 ];
+console.log(myTechnologies);
 ```
 
 <p align="center">
@@ -117,7 +118,7 @@ const projects = [
     description: "Fullstack E-Commerce web application with responsive product catalog, shopping cart functionality, and REST API (Node.js + Express + MySQL). Features JWT-based authentication, Swagger API docs, and modern UI with Vanilla JS. [View project](https://github.com/EduZu32/TiendaPesca)"
   }
 ];
-
+console.log(projects);
 
 ```
 
@@ -130,6 +131,7 @@ const contact = {
   linkedin: "https://www.linkedin.com/in/eduard-ciprian-a-3745ab238/",
   message: "Open an issue or pull request if you want to collaborate!"
 };
+console.log(contact);
 
 ```
 
