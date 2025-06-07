@@ -74,6 +74,10 @@ const projects = [
     description: "Single Page Application (SPA) built with React + Vite + Context API. Features API integration with PokeAPI, dynamic UI, state management for favorites, and responsive design. [View project](https://github.com/EduZu32/poke-spa)"
   },
   {
+    name: "Car Race Simulation (Java Project)",
+    description: "Console-based Java application simulating a car race. Features object-oriented design with classes for Cars and Race management. Includes race logic, car properties, and simple simulation flow. Built using pure Java (OOP) principles. [View project](https://github.com/TU-LINK-GITHUB-CUANDO-LO-SUBAS)"
+  },
+  {
     name: "Tech Event Management System",
     description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS. [View project](https://github.com/EduZu32/tech-event)"
   },
