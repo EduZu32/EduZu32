@@ -23,14 +23,30 @@ if (wantToRead) {
 }
 ```
 
+### 📜 Certifications
+
+```js
+const certifications = [
+  "Agile & Scrum - Advanced (Universidad Europea Online)",
+  "Project Portfolio Management - Advanced (Universidad Europea Online)",
+  "Micro-Certification - Welcome to ServiceNow (ServiceNow, May 2025)",
+  "Google: Inteligencia Artificial y Productividad (Google, Jul 2024)",
+  "Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS (Udemy, Feb 2023)",
+  "Bases de datos con MySQL y SQLite (Udemy, Feb 2023)",
+  "ServiceNow Associate Application Developer (in progress, 62%)",
+  "ServiceNow Skills Earned: Now Platform, AI, Generative AI, Knowledge Management, Platform Analytics, Service Catalog, Workflow Studio"
+];
+console.log(certifications);
+```
+
 ---
 
 ### 🧐 Technologies I'm working on & learning
 
 ```js
 let myTechnologies = [
-  "JavaScript", "Angular", "React", "Vue.js", "TypeScript", "Node.js",
-  "Express", "PHP", "Java", "JUnit", "Tomcat", "MySQL",
+  "JavaScript", "Angular", "React", "V2ue.js", "TypeScript", "Node.js",
+  "Express", "PHP", "Java", "ServiceNow", "JUnit", "Tomcat", "MySQL",
   "Docker", "Bootstrap", "HTML5", "CSS3", "GitHub"
 ];
 ```
