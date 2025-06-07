@@ -21,7 +21,6 @@ if (wantToRead) {
   };
   console.log(dev);
 }
-```
 
 
 ```
