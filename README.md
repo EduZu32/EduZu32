@@ -79,7 +79,7 @@ const projects = [
   },
   {
     name: "Library Catalog Management (Java Project)",
-    description: "Console-based Java application to manage a library catalog. Implements object-oriented design with classes for catalog types, exception handling, and controller logic. Features book management (add, remove, list), catalog type differentiation, and custom exception handling. Built using pure Java (OOP). [View project](https://github.com/Eduzu32/Biblioteca)"
+    description: "Console-based Java application to manage a library catalog. Implements object-oriented design with classes for catalog types, exception handling, and controller logic. Features book management (add, remove, list), catalog type differentiation, and custom exception handling. Built using pure Java (OOP). [View project](https://github.com/Eduzu32/java-library-catalog)"
   },
   {
     name: "Tech Event Management System",
