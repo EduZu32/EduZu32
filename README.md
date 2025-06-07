@@ -91,7 +91,7 @@ const projects = [
 ```js
 const contact = {
   github: "https://github.com/EduZu32",
-  linkedin: "https://www.linkedin.com/in/tu_linkedin_aqui",
+  linkedin: "[https://www.linkedin.com/in/eduard-ciprian-a-3745ab238/]",
   message: "Open an issue or pull request if you want to collaborate!"
 };
 
