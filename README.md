@@ -115,6 +115,10 @@ const projects = [
     description: "Console-based Java application simulating a car race. Features object-oriented design with classes for Cars and Race management. Includes race logic, car properties, and simple simulation flow. Built using pure Java (OOP) principles. [View project](https://github.com/EduZu32/car-race-java)"
   },
   {
+  name: "Bingo Game (Java Project)",
+  description: "Console-based Java Bingo game application. Features object-oriented design with classes for Game logic, Card generation, and Ball drawing simulation. Built using pure Java (OOP) principles. [View project](https://github.com/EduZu32/bingo-game)"
+  },
+  {
     name: "Library Catalog Management (Java Project)",
     description: "Console-based Java application to manage a library catalog. Implements object-oriented design with classes for catalog types, exception handling, and controller logic. Features book management (add, remove, list), catalog type differentiation, and custom exception handling. Built using pure Java (OOP). [View project](https://github.com/EduZu32/java-library-catalog)"
   },
