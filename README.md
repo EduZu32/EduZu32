@@ -75,7 +75,7 @@ const projects = [
   },
   {
     name: "Car Race Simulation (Java Project)",
-    description: "Console-based Java application simulating a car race. Features object-oriented design with classes for Cars and Race management. Includes race logic, car properties, and simple simulation flow. Built using pure Java (OOP) principles. [View project](https://github.com/Eduzu32/Carrera)"
+    description: "Console-based Java application simulating a car race. Features object-oriented design with classes for Cars and Race management. Includes race logic, car properties, and simple simulation flow. Built using pure Java (OOP) principles. [View project](https://github.com/Eduzu32/car-race-java)"
   },
   {
     name: "Library Catalog Management (Java Project)",
