@@ -71,7 +71,7 @@ const projects = [
   },
  {
     name: "Tech Event Management System",
-    description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS. [View project](https://github.com/EduZu32/)"
+    description: "Web application to manage tech events with user authentication (file-based), event CRUD with MySQL, responsive UI using Bootstrap, and error logging system. Built with PHP and Vanilla JS. [View project](https://github.com/EduZu32/tech-event)"
   },
   {
     name: "Pokémon SPA (React App)",
