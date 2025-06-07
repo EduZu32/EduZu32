@@ -1,3 +1,4 @@
+"Welcome to my GitHub! I’m a Junior Web Developer & ServiceNow Developer in training, passionate about building modern web applications and learning new technologies
 <p align="center">
   <img src="const_dev_final.gif" alt="Dev GIF" width="400"/>
 </p>
