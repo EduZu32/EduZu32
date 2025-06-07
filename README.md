@@ -30,10 +30,9 @@ if (wantToRead) {
 
 
 ```
+---
 
 ### 📜 Certifications
-
----
 
 ```js
 const certifications = [
