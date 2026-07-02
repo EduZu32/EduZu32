@@ -57,30 +57,47 @@ console.log(certifications);
 
 ---
 
-### 🧐 Technologies I'm working on & learning
+### 🧐 Tecnologías con las que trabajo y estoy aprendiendo
 
 ```js
-let technologies = [
-  // Languages & Frameworks
-  "JavaScript (ES6+)", "TypeScript", "React", "Angular", "Node.js", 
-  "PHP", "Java", "HTML5", "CSS3",
+let myTechnologies = [
+  // Lenguajes y Frameworks
+  "JavaScript (ES6+)", 
+  "TypeScript", 
+  "React", 
+  "Angular", 
+  "Node.js", 
+  "PHP", 
+  "Java", 
+  "HTML5", 
+  "CSS3",
   
-  // APIs & Services
-  "REST APIs", "JSON", "Web Services",
+  // APIs y Servicios
+  "REST APIs", 
+  "JSON", 
+  "Web Services",
   
-  // Databases
-  "SQL / MySQL", "MongoDB",
+  // Bases de Datos
+  "SQL / MySQL", 
+  "MongoDB",
   
-  // Platforms
-  "ServiceNow (CSA Preparation, ITSM)",
+  // Plataformas
+  "ServiceNow (CSA Preparation, ITSM Fundamentals)",
   
-  // Tools & Others
-  "Docker", "Git", "GitHub", "VS Code",
+  // Herramientas
+  "Docker", 
+  "Git", 
+  "GitHub", 
+  "VS Code",
   
-  // Artificial Intelligence
-  "Ollama", "LM Studio", "Local LLMs", "AI Process Automation"
+  // Inteligencia Artificial
+  "Ollama", 
+  "LM Studio", 
+  "Integración de LLMs", 
+  "Automatización con IA"
 ];
-console.log(technologies);
+
+console.log(myTechnologies);
 ```
 
 <p align="center">
