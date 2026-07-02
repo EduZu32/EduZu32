@@ -14,14 +14,14 @@
 
 ### 👨‍💻 Sobre Mí
 
-👋 Hola, soy **Eduard-Ciprian Apatachioae** (EduZu) — **Desarrollador Full-Stack** con experiencia en desarrollo web, JavaScript, APIs REST y soporte técnico.
+👋 Hola, soy **Eduard** (EduZu) — **Desarrollador Full-Stack** con experiencia en desarrollo web, JavaScript, APIs REST y soporte técnico.
 
 Mi objetivo es evolucionar hacia **plataformas Enterprise**, la **automatización de procesos** y la **integración de soluciones con Inteligencia Artificial**, ampliando mis conocimientos en tecnologías cloud y gestión de servicios.
 
 ```js
 if (wantToRead) {
   const dev = {
-    nombre: "Eduard-Ciprian Apatachioae",
+    nombre: "Eduard",
     alias: "EduZu",
     rol: "Desarrollador Full-Stack | ServiceNow Developer in training",
     enfoque: "Plataformas Enterprise, automatización e integración de IA",
