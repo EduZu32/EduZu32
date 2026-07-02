@@ -1,7 +1,7 @@
 <p align="center">
-  🚀 <b>Welcome to my GitHub!</b><br>
-  Full-Stack Developer with experience in web development, REST APIs, and IT support.<br>
-  Passionate about enterprise platforms, process automation, and AI-driven solutions.
+  🚀 <b>¡Bienvenido a mi GitHub!</b><br>
+  Desarrollador Full-Stack con experiencia en desarrollo web, JavaScript, APIs REST y soporte IT.<br>
+  Apasionado por las plataformas Enterprise, la automatización de procesos y las soluciones basadas en IA.
 </p>
 
 ---
@@ -12,25 +12,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mí
 
-👋 Hi, I'm **Eduard** (EduZu) — a **Full-Stack Developer** with experience in web development, JavaScript, REST APIs, and IT support.
+👋 Hola, soy **Eduard-Ciprian Apatachioae** (EduZu) — **Desarrollador Full-Stack** con experiencia en desarrollo web, JavaScript, APIs REST y soporte técnico.
 
-I am focused on evolving toward **enterprise platforms**, **process automation**, and **AI-powered solutions**, while expanding my knowledge in cloud technologies and IT service management.
+Mi objetivo es evolucionar hacia **plataformas Enterprise**, la **automatización de procesos** y la **integración de soluciones con Inteligencia Artificial**, ampliando mis conocimientos en tecnologías cloud y gestión de servicios.
 
 ```js
 if (wantToRead) {
   const dev = {
-    name: "Eduard",
+    nombre: "Eduard-Ciprian Apatachioae",
     alias: "EduZu",
-    role: "Full-Stack Developer | ServiceNow Developer in training",
-    focus: "Enterprise solutions, process automation & AI integration",
-    currentlyLearning: [
-      "ServiceNow Platform (CSA Certification path)",
-      "Cloud technologies",
-      "Advanced AI & LLM integration"
+    rol: "Desarrollador Full-Stack | ServiceNow Developer in training",
+    enfoque: "Plataformas Enterprise, automatización e integración de IA",
+    actualmenteAprendiendo: [
+      "ServiceNow Platform (ruta CSA)",
+      "Tecnologías Cloud",
+      "Integración avanzada de LLMs"
     ],
-    goal: "Grow as a Technical Consultant in ServiceNow and enterprise environments"
+    meta: "Convertirme en Technical Consultant en entornos ServiceNow y Enterprise"
   };
   console.log(dev);
 }
