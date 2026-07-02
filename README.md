@@ -1,9 +1,8 @@
 <p align="center">
   🚀 <b>Welcome to my GitHub!</b><br>
-  I’m a Junior Fullstack Web Developer & ServiceNow Developer in training,<br>
-  passionate about building modern web applications and continuously learning new technologies.
+  Full-Stack Developer with experience in web development, REST APIs, and IT support.<br>
+  Passionate about enterprise platforms, process automation, and AI-driven solutions.
 </p>
-
 
 ---
 
@@ -15,25 +14,24 @@
 
 ### 👨‍💻 About Me
 
-👋 I’m Eduard-Ciprian Apatachioae | Junior Web Developer & ServiceNow Developer in training | Fullstack & Backend Developer.
+👋 Hi, I'm **Eduard** (EduZu) — a **Full-Stack Developer** with experience in web development, JavaScript, REST APIs, and IT support.
+
+I am focused on evolving toward **enterprise platforms**, **process automation**, and **AI-powered solutions**, while expanding my knowledge in cloud technologies and IT service management.
 
 ```js
 if (wantToRead) {
   const dev = {
-    name: "Eduard-Ciprian Apatachioae",
+    name: "Eduard",
     alias: "EduZu",
-    role: "Technical Consultant | Web Developer | ServiceNow Developer in training",
-    stack: ["HTML", "CSS", "JavaScript", "Vue.js", "React", "Angular", "Node.js", "PHP", "Java"],
-    tools: ["Bootstrap", "MySQL", "Git", "GitHub", "VS Code", "IntelliJ"],
+    role: "Full-Stack Developer | ServiceNow Developer in training",
+    focus: "Enterprise solutions, process automation & AI integration",
     currentlyLearning: [
-      "ServiceNow (CAD Certification in progress)",
-      "AI & Generative AI (ServiceNow Skills Earned)",
-      "Platform Analytics (ServiceNow Skills Earned)",
-      "WordPress",
-      "Low Code platforms"
-],
-    goals: "Grow as a ServiceNow Developer & Technical Consultant, contribute to international projects, and keep learning 🚀"
-};
+      "ServiceNow Platform (CSA Certification path)",
+      "Cloud technologies",
+      "Advanced AI & LLM integration"
+    ],
+    goal: "Grow as a Technical Consultant in ServiceNow and enterprise environments"
+  };
   console.log(dev);
 }
 
@@ -62,25 +60,27 @@ console.log(certifications);
 ### 🧐 Technologies I'm working on & learning
 
 ```js
-let myTechnologies = [
-  // Programming Languages & Frameworks
-  "JavaScript", "TypeScript", "Java", "PHP", "Node.js", "Express", 
+let technologies = [
+  // Languages & Frameworks
+  "JavaScript (ES6+)", "TypeScript", "React", "Angular", "Node.js", 
+  "PHP", "Java", "HTML5", "CSS3",
   
-  // Frontend Frameworks
-  "Angular", "React", "Vue.js",
+  // APIs & Services
+  "REST APIs", "JSON", "Web Services",
   
-  // ServiceNow Platform
-  "ServiceNow",
+  // Databases
+  "SQL / MySQL", "MongoDB",
   
-  // Testing & Backend Tools
-  "JUnit", "Tomcat", "MySQL",
+  // Platforms
+  "ServiceNow (CSA Preparation, ITSM)",
   
-  // DevOps & Utilities
-  "Docker", "GitHub", "Bootstrap", "HTML5", "CSS3"
+  // Tools & Others
+  "Docker", "Git", "GitHub", "VS Code",
+  
+  // Artificial Intelligence
+  "Ollama", "LM Studio", "Local LLMs", "AI Process Automation"
 ];
-
-console.log(myTechnologies);
-
+console.log(technologies);
 ```
 
 <p align="center">
